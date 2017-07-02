@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Literary Application</string>
+    <string name="title_activity_child">MyLiteraryApplication</string>
+ </resources>

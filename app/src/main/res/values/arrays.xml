@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="POETS">
+        <item>William Wordsworth</item>
+        <item>Edgar Allan Poe</item>
+        <item>Alexander Pushkin</item>
+        <item>William Blake</item>
+        <item>Rudyard Kipling</item>
+        <item>Samuel Taylor Coleridge</item>
+        <item>Rabindranath Tagore</item>
+        <item>Elizabeth Barrett Browning</item>
+    </string-array>
+
+    <array name="ICONS">
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_4</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+        <item>@drawable/img_7</item>
+        <item>@drawable/img_8</item>
+    </array>
+
+    <string-array name="POEMS">
+        <item>" I wandered lonely as a cloud \n"
+            "That floats on high o'er vales and hills,\n"
+            "When all at once I saw a crowd,\n"
+            "A host, of golden daffodils;\n"
+            "Beside the lake, beneath the trees,\n"
+            "Fluttering and dancing in the breeze.\n"
+            "Continuous as the stars that shine\n"
+            "And twinkle on the milky way,\n"
+            "They stretched in never-ending line\n"
+            "Along the margin of a bay:\n"
+            "Ten thousand saw I at a glance,\n"
+            "Tossing their heads in sprightly dance."</item>
+
+        <item>" Take this kiss upon the brow!\n"
+            "And, in parting from you now,\n"
+            "Thus much let me avow\n"
+            "You are not wrong, who deem\n"
+            "That my days have been a dream;\n"
+            "Yet if hope has flown away\n"
+            "In a night, or in a day,\n"
+            "In a vision, or in none,\n"
+            "Is it therefore the less gone?\n"
+            "All that we see or seem\n"
+            "Is but a dream within a dream."</item>
+
+        <item>" I loved you, and I probably still do,\n"
+            "And for a while the feeling may remain\n"
+            "But let my love no longer trouble you,\n"
+            "I do not wish to cause you any pain.\n"
+            "I loved you;\n"
+            "and the hopelessness I knew,\n"
+            "The jealousy, the shyness\n"
+            "- though in vain -\n"
+            "Made up a love so tender and so true\n"
+            "As may God grant you to be loved again."</item>
+
+        <item>" Tyger! Tyger! burning bright\n"
+            "In the forest of the night\n"
+            "What immortal hand or eye\n"
+            "Could frame thy fearful symmetry?\n"
+            "In what distant deeps or skies\n"
+            "Burnt the fire of thine eyes?\n"
+            "On what wings dare he aspire?\n"
+            "What the hand dare seize the fire?\n"
+            "And what shoulder, and what art,\n"
+            "Could twist the sinews of thy heart?\n"
+            "And when thy heart began to beat,\n"
+            "What dread hand? and what dread feet?."</item>
+
+        <item>" If you can talk with crowds and keep your virtue,\n"
+            "Or walk with Kings — nor lose the common touch,\n"
+            "If neither foes nor loving friends can hurt you,\n"
+            "If all men count with you, but none too much;\n"
+            "If you can fill the unforgiving minute\n"
+            "With sixty seconds’ worth of distance run,\n"
+            "Yours is the Earth and everything that’s in it,\n"
+            "And — which is more — you’ll be a Man, my son!"</item>
+
+        <item>" In Xanadu did Kubla Khan\n"
+            "A stately pleasure-dome decree:\n"
+            "Where Alph, the sacred river, ran\n"
+            "Through caverns measureless to man\n"
+            "Down to a sunless sea.\n"
+            "So twice five miles of fertile ground\n"
+            "With walls and towers were girdled round:\n"
+            "And there were gardens bright with sinuous rills,\n"
+            "Where blossomed many an incense-bearing tree;\n"
+            "And here were forests ancient as the hills,\n"
+            "Enfolding sunny spots of greenery."</item>
+
+        <item>" Where the mind is without fear and the head is held high;\n"
+            "Where knowledge is free;\n"
+            "Where the world has not been broken up\n "
+            "into fragments by narrow domestic walls;\n"
+            "Where words come out from the depth of truth;\n"
+            "Where tireless striving stretches its arms towards perfection:\n"
+            "Where the clear stream of reason has not lost its way\n "
+            "into the dreary desert sand of dead habit;\n"
+            "Where the mind is lead forward by thee\n"
+            "Into ever-widening thought and action–\n"
+            "Into that heaven of freedom, my Father, let my country awake."</item>
+
+        <item>" How do I love thee? Let me count the ways.\n"
+            "I love thee to the depth and breadth and height\n"
+            "My soul can reach, when feeling out of sight\n"
+            "For the ends of Being and ideal Grace.\n"
+            "I love thee to the level of every day’s\n"
+            "Most quiet need, by sun and candlelight.\n"
+            "I love thee freely, as men strive for Right;\n"
+            "I love thee purely, as they turn from Praise.\n"
+            "I love with a passion put to use\n"
+            "In my old griefs, and with my childhood’s faith."</item>
+
+    </string-array>
+
+</resources>
